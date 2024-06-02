@@ -50,6 +50,7 @@ let
     ##GUI
     floorp
     godot_4
+    hyprland
   ];
 inherit (inputs) bqnlsp;
 inherit system;
