@@ -113,6 +113,7 @@ in
       ghc
       gforth
       io
+      j
       ## janet
       janet
       jpm
@@ -140,10 +141,7 @@ in
       racket
       rakudo
       rustup
-      ## Java
-      zulu
-      ##
-      
+           
       # Runtimes
       nodejs_21
       wasmtime
