@@ -24,6 +24,7 @@ let
     factor-lang
     go_1_22
     hare
+    j
     jelly
     nim-unwrapped-2
     uiua
@@ -51,6 +52,7 @@ let
     floorp
     godot_4
     hyprland
+    zed-editor
   ];
 inherit (inputs) bqnlsp;
 inherit system;
@@ -113,7 +115,6 @@ in
       ghc
       gforth
       io
-      j
       ## janet
       janet
       jpm
