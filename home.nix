@@ -21,6 +21,7 @@ let
 
     ## Languages
     cbqn-replxx
+    (dyalog.override { acceptLicense = true;})
     factor-lang
     go_1_22
     hare
@@ -52,6 +53,7 @@ let
     floorp
     godot_4
     hyprland
+    ride
     zed-editor
   ];
 inherit (inputs) bqnlsp;
